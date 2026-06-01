@@ -1,13 +1,13 @@
 const mineflayer = require('mineflayer');
 
 // ===== CONFIG =====
-const HOST         = 'your-server.aternos.me';  // change this
+const HOST         = 'Senku1249.aternos.me';  // change this
 const PORT         = 62548;                       // change this
-const USERNAME     = 'YourBotName';               // change this
-const VERSION      = '1.16.5';                    // change this
-const PASSWORD     = 'YourPassword';              // change this (AuthMe password)
+const USERNAME     = 'AFK';               // change this
+const VERSION      = '1.21.11';                    // change this
+const PASSWORD     = 'Ayesha';              // change this (AuthMe password)
 
-const OWNER        = 'YourName';                  // your minecraft username
+const OWNER        = 'AFK';                  // your minecraft username
 
 // Optional disconnect cycle
 const CYCLE_ENABLED   = true;            // true = disconnect every 5 min, false = stay forever
