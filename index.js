@@ -144,5 +144,6 @@ function createBot() {
     setTimeout(createBot, RECONNECT_DELAY);
   });
 }
-
+const http = require('http');
+http.createServer((req, res) => res.end('Bot is running!')).listen(3000);
 createBot();
